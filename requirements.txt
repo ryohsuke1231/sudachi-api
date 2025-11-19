@@ -1,0 +1,4 @@
+flask
+gunicorn
+sudachipy
+sudachidict_full
